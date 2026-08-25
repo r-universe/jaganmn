@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "flint"]
 	path = flint
-	url = https://github.com/jaganmn/flint
+	url = https://codeberg.org/jaganmn/flint
