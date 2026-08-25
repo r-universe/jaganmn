@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Matrix"]
+	path = Matrix
+	url = https://codeberg.org/jaganmn/matrix
 [submodule "flint"]
 	path = flint
 	url = https://codeberg.org/jaganmn/flint
